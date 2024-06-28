@@ -1,0 +1,52 @@
+{
+    "resources": {
+        "en": {
+            "translation": {
+                "dashboard": "Dashboard",
+                "users": "Users",
+                "companies": "Companies",
+                "analytics": "Analytics",
+                "bookings": "Bookings",
+                "settings": "Settings",
+                "booking": "Booking",
+                "calendar": "Calendar",
+                "booked_at": "Booked at",
+                "paymethod": "Paymethod",
+                "language": "Language",
+                "password": "Password",
+                "booking_number": "Booking Number",
+                "hello": "Hello",
+                "new": "New",
+                "date": "Date",
+                "back": "Back",
+                "current_week": "Current Week"
+            }
+        },
+        "de": {
+            "translation": {
+                "dashboard": "Dashboard",
+                "users": "Nutzer",
+                "companies": "Firmen",
+                "analytics": "Analysen",
+                "bookings": "Buchungen",
+                "settings": "Einstellungen",
+                "calendar": "Kalender",
+                "booking": "Buchung",
+                "booked_at": "Gebucht am",
+                "paymethod": "Zahlungsmethode",
+                "language": "Sprache",
+                "password": "Passwort",
+                "booking_number": "Buchungsnummer",
+                "hello": "Hallo",
+                "new": "Neues",
+                "date": "Datum",
+                "back": "Zurück",
+                "current_week": "Aktuelle Woche"
+            }
+        }
+    },
+    "fallbackLng": "en",
+    "interpolation": {
+        "escapeValue": false
+    }
+}

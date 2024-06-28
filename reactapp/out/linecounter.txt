@@ -1,0 +1,91 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-04-04 11:24:40
+count workspace : c:\Users\wrann\source\repos\OutfitCreator-NewReact\reactapp
+total files : 62
+total code lines : 22847
+total comment lines : 25
+total blank lines : 502
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |             18|              1|              5|  0.079|
+   |          .json|          18652|              0|              7|     82|
+   |            .js|             43|              2|              5|   0.19|
+   |        .esproj|              8|              0|              0|  0.035|
+   |           .css|             48|              0|              7|   0.21|
+   |           .tsx|           3897|              9|            438|     17|
+   |            .md|             26|              6|             20|   0.11|
+   |        .config|             10|              0|              0|  0.044|
+   |            .ts|            120|              6|             20|   0.53|
+   |           .txt|              4|              1|              0|  0.018|
+   |         .cache|              0|              0|              0|    0.0|
+   |           .svg|              1|              0|              0| 0.0044|
+   |          .html|             20|              0|              0|  0.088|
+   -------------------------------------------------------------------------
+.gitignore, code is 18, comment is 1, blank is 5.
+aspnetcore-https.js, code is 27, comment is 1, blank is 5.
+nuget.config, code is 10, comment is 0, blank is 0.
+obj\Debug\reactapp.esproj.CoreCompileInputs.cache, code is 0, comment is 0, blank is 0.
+obj\Debug\reactapp.esproj.FileListAbsolute.txt, code is 1, comment is 0, blank is 0.
+package-lock.json, code is 18494, comment is 0, blank is 2.
+package.json, code is 57, comment is 0, blank is 3.
+postcss.config.js, code is 6, comment is 0, blank is 0.
+public\favicon.ico, it is a binary file.
+public\index.html, code is 20, comment is 0, blank is 0.
+public\logo192.png, it is a binary file.
+public\logo512.png, it is a binary file.
+public\manifest.json, code is 25, comment is 0, blank is 0.
+public\robots.txt, code is 3, comment is 1, blank is 0.
+reactapp.esproj, code is 8, comment is 0, blank is 0.
+README.md, code is 26, comment is 6, blank is 20.
+src\App.css, code is 33, comment is 0, blank is 5.
+src\App.test.tsx, code is 7, comment is 0, blank is 1.
+src\App.tsx, code is 33, comment is 0, blank is 3.
+src\components\api\Utils.ts, code is 93, comment is 1, blank is 17.
+src\components\etc\translation.json, code is 52, comment is 0, blank is 0.
+src\components\etc\UserModel.ts, code is 9, comment is 0, blank is 0.
+src\components\etc\UserPropInterface.ts, code is 4, comment is 0, blank is 1.
+src\components\views\Account\Creator\Advertise.tsx, code is 105, comment is 0, blank is 15.
+src\components\views\Account\Creator\Analytics.tsx, code is 257, comment is 0, blank is 10.
+src\components\views\Account\Creator\CreatorsView.tsx, code is 51, comment is 0, blank is 5.
+src\components\views\Account\Login\Login.tsx, code is 90, comment is 0, blank is 22.
+src\components\views\Account\Login\Register.tsx, code is 95, comment is 0, blank is 24.
+src\components\views\Account\Login\ResetPassword.tsx, code is 151, comment is 0, blank is 20.
+src\components\views\Account\Logout.tsx, code is 14, comment is 0, blank is 4.
+src\components\views\Account\Settings\EditAccount.tsx, code is 10, comment is 0, blank is 2.
+src\components\views\Account\Settings\EditProfile.tsx, code is 124, comment is 0, blank is 9.
+src\components\views\Account\Settings\Settings.tsx, code is 65, comment is 0, blank is 5.
+src\components\views\Admin\etc\Reports.tsx, code is 48, comment is 1, blank is 3.
+src\components\views\Admin\etc\Requests.tsx, code is 44, comment is 1, blank is 3.
+src\components\views\Admin\etc\Roles.tsx, code is 196, comment is 1, blank is 9.
+src\components\views\Admin\Index.tsx, code is 94, comment is 0, blank is 5.
+src\components\views\Admin\Users\AddUser.tsx, code is 26, comment is 0, blank is 5.
+src\components\views\Admin\Users\User.tsx, code is 135, comment is 0, blank is 12.
+src\components\views\Admin\Users\Users.tsx, code is 234, comment is 0, blank is 24.
+src\components\views\Dashboard\Analytics.tsx, code is 30, comment is 0, blank is 5.
+src\components\views\Dashboard\Creator\ComponentCreator.tsx, code is 110, comment is 0, blank is 14.
+src\components\views\Dashboard\Creator\ComponentEditor.tsx, code is 156, comment is 1, blank is 20.
+src\components\views\Dashboard\Creator\Components.tsx, code is 169, comment is 0, blank is 21.
+src\components\views\Dashboard\Creator\Creator.tsx, code is 90, comment is 0, blank is 11.
+src\components\views\Dashboard\Creator\Dashboard.tsx, code is 225, comment is 0, blank is 25.
+src\components\views\Dashboard\Creator\Editor.tsx, code is 311, comment is 0, blank is 33.
+src\components\views\Dashboard\Index.tsx, code is 230, comment is 0, blank is 30.
+src\components\views\Explore\Explore.tsx, code is 90, comment is 0, blank is 15.
+src\components\views\Messages\Messages.tsx, code is 352, comment is 2, blank is 36.
+src\components\views\SinglePages\Component.tsx, code is 38, comment is 0, blank is 7.
+src\components\views\SinglePages\Post.tsx, code is 73, comment is 0, blank is 11.
+src\components\views\SinglePages\User.tsx, code is 52, comment is 0, blank is 7.
+src\components\views\Utils.tsx, code is 175, comment is 0, blank is 20.
+src\index.css, code is 15, comment is 0, blank is 2.
+src\index.tsx, code is 17, comment is 3, blank is 2.
+src\logo.svg, code is 1, comment is 0, blank is 0.
+src\react-app-env.d.ts, code is 0, comment is 1, blank is 0.
+src\reportWebVitals.ts, code is 13, comment is 0, blank is 2.
+src\setupTests.ts, code is 1, comment is 4, blank is 0.
+tailwind.config.js, code is 10, comment is 1, blank is 0.
+tsconfig.json, code is 24, comment is 0, blank is 2.
+===============================================================================

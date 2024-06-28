@@ -1,0 +1,459 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\wrann\\source\\repos\\OutfitCreator-NewReact\\reactapp",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-04-04 11:24:40",
+            "filesum": 62,
+            "codesum": 22847,
+            "commentsum": 25,
+            "blanksum": 502,
+            "statistics": {
+                "": {
+                    "code": 18,
+                    "comment": 1,
+                    "blank": 5
+                },
+                ".json": {
+                    "code": 18652,
+                    "comment": 0,
+                    "blank": 7
+                },
+                ".js": {
+                    "code": 43,
+                    "comment": 2,
+                    "blank": 5
+                },
+                ".esproj": {
+                    "code": 8,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".css": {
+                    "code": 48,
+                    "comment": 0,
+                    "blank": 7
+                },
+                ".tsx": {
+                    "code": 3897,
+                    "comment": 9,
+                    "blank": 438
+                },
+                ".md": {
+                    "code": 26,
+                    "comment": 6,
+                    "blank": 20
+                },
+                ".config": {
+                    "code": 10,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".ts": {
+                    "code": 120,
+                    "comment": 6,
+                    "blank": 20
+                },
+                ".txt": {
+                    "code": 4,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".cache": {
+                    "code": 0,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".svg": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 20,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 27,
+                    "comment": 1,
+                    "filename": "aspnetcore-https.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "nuget.config"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "obj\\Debug\\reactapp.esproj.CoreCompileInputs.cache"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "obj\\Debug\\reactapp.esproj.FileListAbsolute.txt"
+                },
+                {
+                    "blank": 2,
+                    "code": 18494,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "postcss.config.js"
+                },
+                {
+                    "filename": "public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "filename": "public\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public\\robots.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "reactapp.esproj"
+                },
+                {
+                    "blank": 20,
+                    "code": 26,
+                    "comment": 6,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\App.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\App.test.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 17,
+                    "code": 93,
+                    "comment": 1,
+                    "filename": "src\\components\\api\\Utils.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "src\\components\\etc\\translation.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\components\\etc\\UserModel.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\components\\etc\\UserPropInterface.ts"
+                },
+                {
+                    "blank": 15,
+                    "code": 105,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Creator\\Advertise.tsx"
+                },
+                {
+                    "blank": 10,
+                    "code": 257,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Creator\\Analytics.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Creator\\CreatorsView.tsx"
+                },
+                {
+                    "blank": 22,
+                    "code": 90,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Login\\Login.tsx"
+                },
+                {
+                    "blank": 24,
+                    "code": 95,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Login\\Register.tsx"
+                },
+                {
+                    "blank": 20,
+                    "code": 151,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Login\\ResetPassword.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Logout.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Settings\\EditAccount.tsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 124,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Settings\\EditProfile.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Account\\Settings\\Settings.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 48,
+                    "comment": 1,
+                    "filename": "src\\components\\views\\Admin\\etc\\Reports.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 44,
+                    "comment": 1,
+                    "filename": "src\\components\\views\\Admin\\etc\\Requests.tsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 196,
+                    "comment": 1,
+                    "filename": "src\\components\\views\\Admin\\etc\\Roles.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 94,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Admin\\Index.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Admin\\Users\\AddUser.tsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 135,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Admin\\Users\\User.tsx"
+                },
+                {
+                    "blank": 24,
+                    "code": 234,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Admin\\Users\\Users.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Dashboard\\Analytics.tsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 110,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Dashboard\\Creator\\ComponentCreator.tsx"
+                },
+                {
+                    "blank": 20,
+                    "code": 156,
+                    "comment": 1,
+                    "filename": "src\\components\\views\\Dashboard\\Creator\\ComponentEditor.tsx"
+                },
+                {
+                    "blank": 21,
+                    "code": 169,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Dashboard\\Creator\\Components.tsx"
+                },
+                {
+                    "blank": 11,
+                    "code": 90,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Dashboard\\Creator\\Creator.tsx"
+                },
+                {
+                    "blank": 25,
+                    "code": 225,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Dashboard\\Creator\\Dashboard.tsx"
+                },
+                {
+                    "blank": 33,
+                    "code": 311,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Dashboard\\Creator\\Editor.tsx"
+                },
+                {
+                    "blank": 30,
+                    "code": 230,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Dashboard\\Index.tsx"
+                },
+                {
+                    "blank": 15,
+                    "code": 90,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Explore\\Explore.tsx"
+                },
+                {
+                    "blank": 36,
+                    "code": 352,
+                    "comment": 2,
+                    "filename": "src\\components\\views\\Messages\\Messages.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\SinglePages\\Component.tsx"
+                },
+                {
+                    "blank": 11,
+                    "code": 73,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\SinglePages\\Post.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\SinglePages\\User.tsx"
+                },
+                {
+                    "blank": 20,
+                    "code": 175,
+                    "comment": 0,
+                    "filename": "src\\components\\views\\Utils.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 17,
+                    "comment": 3,
+                    "filename": "src\\index.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\logo.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src\\react-app-env.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\reportWebVitals.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "src\\setupTests.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "tailwind.config.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                }
+            ]
+        }
+    ]
+}

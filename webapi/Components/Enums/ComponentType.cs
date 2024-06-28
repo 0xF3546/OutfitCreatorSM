@@ -1,0 +1,38 @@
+﻿namespace webapi.Components.Enums
+{
+    public enum ComponentType
+    {
+        Scarf,
+        Hat,
+        Shirt,
+        Pants,
+        Shoes,
+        Socks,
+        Sweater,
+        Jacket,
+        Coat,
+        Gloves,
+        Dress,
+        Skirt,
+        Trousers,
+        Blouse,
+        Hoodie,
+        Suit,
+        Tie,
+        Belt,
+        Underwear,
+        Shorts,
+        TShirt,
+        Earrings,
+        Necklace,
+        Bracelet,
+        Ring,
+        Watch,
+        Handbag,
+        Backpack,
+        Sunglasses,
+        Glasses,
+        TieClip,
+        CuffLinks
+    }
+}
